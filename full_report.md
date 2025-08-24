@@ -66,7 +66,8 @@ Although the regression model was statistically significant, the low R² suggest
 ---
 
 ## 5. Outputs & Resources
-- Correlation and regression summaries: [`regression_summary.txt`](/outputs/regression_summary.txt)  
+- Correlation and regression summaries: [`regression_summary.txt`](/outputs/regression_summary.txt)
+- Correlation matrix: [correlation_summary.txt](outputs/correlation_summary.txt)   
 - Key plots:  
   - [Actual vs Predicted Sales](/plots/actual_vs_predicted.png)  
   - Residual diagnostics (see [`plots/`](/plots/))  
