@@ -12,7 +12,7 @@ The objective was to determine whether advertising and store size significantly 
 ## 2. Methods
 
 ### 2.1 Data
-- Dataset: [`Sales_data.xlsx`](../data/Sales_data.xlsx)  
+- Dataset: [`Sales_data.xlsx`](../data/store_data.xlsx)  
 - Variables:  
   - **Monthly Sales** (response)  
   - **Advertising Spend** (predictor 1)  
@@ -33,7 +33,7 @@ The objective was to determine whether advertising and store size significantly 
 
 3. **Software & Tools**  
    - Analysis was conducted in **R** using packages: `readxl`, `ggplot2`, `GGally`, `car`, and `lmtest`.  
-   - Scripts available in: [`regression_analysis.R`](../scripts/regression_analysis.R)  
+   - Scripts available in: [`regression_analysis.R`](../scripts/store_analysis.R)  
 
 ---
 
