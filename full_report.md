@@ -33,7 +33,7 @@ The objective was to determine whether advertising and store size significantly 
 
 3. **Software & Tools**  
    - Analysis was conducted in **R** using packages: `readxl`, `ggplot2`, `GGally`, `car`, and `lmtest`.  
-   - Scripts available in: [`regression_analysis.R`](../scripts/store_analysis.R)  
+   - Scripts available in: [`store_analysis.R`](../scripts/store_analysis.R)  
 
 ---
 
