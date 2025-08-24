@@ -4,22 +4,22 @@ This repository demonstrates correlation and multiple regression analysis in R, 
 
 ## 📂 Repository Structure
 
-- `data/` → Contains the dummy dataset (`dummy_regression_data.xlsx`)  
+- `data/` → Contains the dummy dataset (`Sales_data.xlsx`)  
 - `scripts/` → Main R script for running correlation & regression (`regression_analysis.R`)  
-- `plots/` → Generated plots (e.g., Actual vs Predicted, Residuals)  
-- `results/` → Stores regression model outputs (e.g., summary tables)  
-- `README.md` → Documentation & navigation  
+- `plots/` → Generated plots (Actual vs Predicted, Residuals)  
+- `results/` → Stores regression model outputs (summary tables)  
+- `README.md` → Documentation & Navigation  
 
 ---
 
-## 🔬 Research Questions
+## Research Questions
 
 1. Is there a significant correlation between **Monthly Sales** and the independent variables (**Advertising Spend**, **Store Size**)?  
 2. Do **Advertising Spend** and **Store Size** significantly predict **Monthly Sales** in a regression model?  
 
 ---
 
-## 📊 Hypotheses
+## Hypotheses
 
 **Correlation Tests**  
 - H0: No significant correlation between Monthly Sales and predictors.  
@@ -31,7 +31,7 @@ This repository demonstrates correlation and multiple regression analysis in R, 
 
 ---
 
-## 🚀 How to Run the Analysis
+## How to Run the Analysis
 
 1. Clone this repository:
    ```bash
