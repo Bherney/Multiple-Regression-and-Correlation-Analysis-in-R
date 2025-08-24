@@ -12,7 +12,7 @@ The objective was to determine whether advertising and store size significantly 
 ## 2. Methods
 
 ### 2.1 Data
-- Dataset: [`store_data.xlsx`](../data/store_data.xlsx)  
+- Dataset: [`store_data.xlsx`](/data/store_data.xlsx)  
 - Variables:  
   - **Monthly Sales** (response)  
   - **Advertising Spend** (predictor 1)  
@@ -33,7 +33,7 @@ The objective was to determine whether advertising and store size significantly 
 
 3. **Software & Tools**  
    - Analysis was conducted in **R** using packages: `readxl`, `ggplot2`, `GGally`, `car`, and `lmtest`.  
-   - Scripts available in: [`store_analysis.R`](../scripts/store_analysis.R)  
+   - Scripts available in: [`store_analysis.R`](/scripts/store_analysis.R)  
 
 ---
 
@@ -66,10 +66,10 @@ Although the regression model was statistically significant, the low R² suggest
 ---
 
 ## 5. Outputs & Resources
-- Correlation and regression summaries: [`regression_summary.txt`](regression_summary.txt)  
+- Correlation and regression summaries: [`regression_summary.txt`](/outputs/regression_summary.txt)  
 - Key plots:  
-  - [Actual vs Predicted Sales](../plots/actual_vs_predicted.png)  
-  - Residual diagnostics (see [`plots/`](../plots/))  
+  - [Actual vs Predicted Sales](/plots/actual_vs_predicted.png)  
+  - Residual diagnostics (see [`plots/`](/plots/))  
 
 ---
 
