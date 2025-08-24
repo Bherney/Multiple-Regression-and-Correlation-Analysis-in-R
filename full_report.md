@@ -12,7 +12,7 @@ The objective was to determine whether advertising and store size significantly 
 ## 2. Methods
 
 ### 2.1 Data
-- Dataset: [`Sales_data.xlsx`](../data/store_data.xlsx)  
+- Dataset: [`store_data.xlsx`](../data/store_data.xlsx)  
 - Variables:  
   - **Monthly Sales** (response)  
   - **Advertising Spend** (predictor 1)  
