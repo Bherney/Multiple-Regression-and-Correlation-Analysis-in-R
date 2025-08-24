@@ -59,5 +59,5 @@ For detailed interpretation, see the [Full Report](/full_report.md).
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/Multiple-Regression-and-Correlation-Analysis-in-R.git
-   cd Multiple-Regression-and-Correlation-Analysis-in-R
+   git clone https://github.com/your-username/Store-Sales-Analysis-Using-Multiple-Regression-and-Correlation-Analysis-in-R.git
+   cd Store-Sales-Analysis-Using-Multiple-Regression-and-Correlation-Analysis-in-R
