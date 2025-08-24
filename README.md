@@ -8,8 +8,8 @@ The analysis explores the effect of **Advertising Spend** and **Store Size** on 
 ## 📂 Repository Structure
 
 - [data/](data/) → Contains the dataset ([`Sales_data.xlsx`](data/Sales_data.xlsx))  
-- [scripts/](scripts/) → Main R script ([`regression_analysis.R`](scripts/regression_analysis.R))  
-- [plots/](plots/) → Generated plots ([`actual_vs_predicted.png`](plots/actual_vs_predicted.png), residual plots, etc.)  
+- [scripts/](scripts/) → Main R script ([`store_analysis.R`](scripts/store_analysis.R))  
+- [plots/](plots/) → Generated plots ([`actual_vs_predicted.png`](plots/actual_vs_predicted.png), (plots/actual_vs_predicted.png))  
 - [results/](results/) → Model outputs ([`regression_summary.txt`](results/regression_summary.txt), [Full Report](results/full_report.md))  
 - [Store_Sales_Analysis.Rproj](Store_Sales_Analysis.Rproj) → R Project package file  
 - [README.md](README.md) → Documentation & Navigation  
