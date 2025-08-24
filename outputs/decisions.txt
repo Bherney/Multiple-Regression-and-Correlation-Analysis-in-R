@@ -1,0 +1,8 @@
+HYPOTHESIS TESTING DECISIONS (alpha = 0.05)
+-------------------------------------------
+Correlation: Sales ~ Advertising_Spend: p = 0.03071 → Reject H0
+Correlation: Sales ~ Store_Size: p = 0.1462 → Fail to reject H0
+
+Overall Regression (F-test): p = 0.04849 → Reject H0 (model is significant)
+Coefficient - Advertising_Spend: p = 0.04766 → Reject H0 (significant predictor)
+Coefficient - Store_Size: p = 0.2337 → Fail to reject H0

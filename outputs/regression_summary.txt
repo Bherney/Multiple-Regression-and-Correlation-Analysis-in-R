@@ -1,0 +1,21 @@
+
+Call:
+lm(formula = Monthly_Sales ~ Advertising_Spend + Store_Size, 
+    data = store_data)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-7.8330 -2.1555 -0.1153  2.0505  7.0834 
+
+Coefficients:
+                  Estimate Std. Error t value Pr(>|t|)    
+(Intercept)       46.03680    7.40932   6.213 1.28e-07 ***
+Advertising_Spend  0.18088    0.08895   2.034   0.0477 *  
+Store_Size         0.25469    0.21110   1.207   0.2337    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.352 on 47 degrees of freedom
+Multiple R-squared:  0.1208,	Adjusted R-squared:  0.08343 
+F-statistic:  3.23 on 2 and 47 DF,  p-value: 0.04849
+
